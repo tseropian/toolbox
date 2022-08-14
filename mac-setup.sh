@@ -28,12 +28,14 @@ brew install --cask tableplus
 brew install --cask brave-browser
 brew install --cask signal
 brew install --cask nordvpn
- brew install --cask google-chrome
+brew install --cask google-chrome
 brew install jesseduffield/lazygit/lazygit
 brew install --cask mamp
 brew install youtube-dl
 brew install --cask discord
 brew install --cask openoffice
+brew install --cask the-unarchiver
+brew install ffmpeg
 
 # Dock
 defaults write com.apple.dock orientation left

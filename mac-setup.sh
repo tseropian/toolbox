@@ -36,7 +36,11 @@ brew install --cask discord
 brew install --cask openoffice
 brew install --cask the-unarchiver
 brew install ffmpeg
-
+brew install --cask carbon-copy-cloner
+brew install --cask insomnia
+brew install --cask the-unarchiver
+brew install --cask balenaetcher
+brew install --cask gimp
 # Dock
 defaults write com.apple.dock orientation left
 killall Dock

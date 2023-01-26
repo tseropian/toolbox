@@ -41,6 +41,11 @@ brew install --cask insomnia
 brew install --cask the-unarchiver
 brew install --cask balenaetcher
 brew install --cask gimp
+brew install --cask calibre
+brew install --cask utm
+brew install --cask tor-browser
+brew install --cask postgres-unofficial
+
 # Dock
 defaults write com.apple.dock orientation left
 killall Dock
